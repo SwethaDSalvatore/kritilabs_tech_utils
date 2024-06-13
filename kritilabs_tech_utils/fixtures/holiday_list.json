@@ -1,0 +1,466 @@
+[
+ {
+  "color": null,
+  "country": null,
+  "docstatus": 0,
+  "doctype": "Holiday List",
+  "from_date": "2024-01-01",
+  "holiday_list_name": "Indian Holidays",
+  "holidays": [
+   {
+    "description": "New Year",
+    "holiday_date": "2024-01-01",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Republic Day",
+    "holiday_date": "2024-01-26",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-04-07",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-04-14",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-04-21",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-04-28",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Workers Day",
+    "holiday_date": "2024-05-01",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-05-05",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-05-12",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-05-19",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-05-26",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-06-02",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-06-09",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-06-16",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-06-23",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-06-30",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-07-07",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-07-14",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-07-21",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-07-28",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-08-04",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-08-11",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Independence Day",
+    "holiday_date": "2024-08-15",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-08-18",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-08-25",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-09-01",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-09-08",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-09-15",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-09-22",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-09-29",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-10-06",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-10-13",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-10-20",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-10-27",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-11-03",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-11-10",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-11-17",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-11-24",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-12-01",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-12-08",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-12-15",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-12-22",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2024-12-29",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-01-05",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-01-12",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-01-19",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-01-26",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-02-02",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-02-09",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-02-16",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-02-23",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-03-02",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-03-09",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-03-16",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-03-23",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Sunday",
+    "holiday_date": "2025-03-30",
+    "parent": "Indian Holidays",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   }
+  ],
+  "modified": "2024-06-13 09:48:24.235935",
+  "name": "Indian Holidays",
+  "subdivision": null,
+  "to_date": "2025-03-31",
+  "total_holidays": 56,
+  "weekly_off": "Sunday"
+ }
+]

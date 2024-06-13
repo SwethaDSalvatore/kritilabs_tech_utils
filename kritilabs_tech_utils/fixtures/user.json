@@ -1,0 +1,730 @@
+[
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "admin@example.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Administrator",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "full_name": "Administrator",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": null,
+  "last_active": "2024-06-13 19:05:02.214529",
+  "last_ip": "127.0.0.1",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-14\", \"version\": \"14.72.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-14\", \"version\": \"14.68.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"develop\", \"version\": \"16.0.0-dev\"}, \"payments\": {\"title\": \"Payments\", \"description\": \"Payments app for frappe\", \"branch\": \"develop\", \"version\": \"0.0.1\"}}",
+  "last_login": "2024-06-13 17:22:25.124162",
+  "last_name": null,
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2024-06-13 09:09:02.217333",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "Administrator",
+  "new_password": "",
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": null,
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Administrator"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "System Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Guest"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "All"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Dashboard Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Workspace Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Report Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Inbox User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Blogger"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Master Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Translator"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Workspace Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Auditor"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Projects User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Fleet Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Academics User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Fulfillment User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Support Team"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Agriculture User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Agriculture Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Loan Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Analytics"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [],
+  "thread_notify": 0,
+  "time_zone": "Asia/Kolkata",
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "administrator"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "guest@example.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Guest",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "full_name": "Guest",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": null,
+  "last_active": null,
+  "last_ip": null,
+  "last_known_versions": null,
+  "last_login": null,
+  "last_name": null,
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2024-06-13 09:07:04.139185",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "Guest",
+  "new_password": "",
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": null,
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "Guest",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Guest"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [],
+  "thread_notify": 0,
+  "time_zone": "Asia/Kolkata",
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "Website User",
+  "username": "guest"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1998-04-08",
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "usermail1@gmail.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Steve",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "full_name": "Steve",
+  "gender": "Male",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2024-06-13 17:19:58.354819",
+  "last_ip": "127.0.0.1",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-14\", \"version\": \"14.72.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-14\", \"version\": \"14.68.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"develop\", \"version\": \"16.0.0-dev\"}, \"payments\": {\"title\": \"Payments\", \"description\": \"Payments app for frappe\", \"branch\": \"develop\", \"version\": \"0.0.1\"}, \"kritilabs_tech_utils\": {\"title\": \"Kritilabs Tech Utils\", \"description\": \"hrm\", \"branch\": \"master\", \"version\": \"0.0.1\"}}",
+  "last_login": "2024-06-13 13:36:57.561814",
+  "last_name": null,
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2024-06-13 09:40:50.221170",
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2024-06-13 17:47:02.046232",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "usermail1@gmail.com",
+  "new_password": "",
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "4f754c824c2ac6c866e957c8fc779f2399b4e29b2feb433fc7092253151a6e0e",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "usermail1@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   },
+   {
+    "parent": "usermail1@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "System Manager"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "usermail1@gmail.com",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "ea4958beb47657682c2a94df997e6de1deb2f0e",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Kolkata",
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": "/files/steve.jpg",
+  "user_type": "System User",
+  "username": "steve"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "2000-08-27",
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "    usermail2@gamil.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Dustin",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "full_name": "Dustin",
+  "gender": "Male",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2024-06-13 17:38:51.599689",
+  "last_ip": "127.0.0.1",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-14\", \"version\": \"14.72.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-14\", \"version\": \"14.68.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"develop\", \"version\": \"16.0.0-dev\"}, \"payments\": {\"title\": \"Payments\", \"description\": \"Payments app for frappe\", \"branch\": \"develop\", \"version\": \"0.0.1\"}, \"kritilabs_tech_utils\": {\"title\": \"Kritilabs Tech Utils\", \"description\": \"hrm\", \"branch\": \"master\", \"version\": \"0.0.1\"}}",
+  "last_login": "2024-06-13 17:38:50.654992",
+  "last_name": null,
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2024-06-13 09:41:38.857491",
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2024-06-13 17:46:32.891436",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "usermail2@gamil.com",
+  "new_password": "",
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "8ab48de3193b4bb4c7839395286db79a2f87fcdf28da5c7a877fa6f994e9e3f4",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "usermail2@gamil.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "usermail2@gamil.com",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "ef1f8c247a4f5ce1658ba449cf46aa34a7f6920",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Kolkata",
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": "/files/dustin.jpeg",
+  "user_type": "System User",
+  "username": "dustin"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1999-11-02",
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "usermail3@gamil.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Nancy",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "full_name": "Nancy",
+  "gender": "Female",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2024-06-13 17:44:37.860831",
+  "last_ip": "127.0.0.1",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-14\", \"version\": \"14.72.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-14\", \"version\": \"14.68.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"develop\", \"version\": \"16.0.0-dev\"}, \"payments\": {\"title\": \"Payments\", \"description\": \"Payments app for frappe\", \"branch\": \"develop\", \"version\": \"0.0.1\"}, \"kritilabs_tech_utils\": {\"title\": \"Kritilabs Tech Utils\", \"description\": \"hrm\", \"branch\": \"master\", \"version\": \"0.0.1\"}}",
+  "last_login": "2024-06-13 17:39:52.449850",
+  "last_name": null,
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2024-06-13 09:42:45.264781",
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2024-06-13 17:46:49.919335",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "usermail3@gamil.com",
+  "new_password": "",
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "571b3291221e9c74e25264e554625d470efc44cc3e1f0fef8fe4383045513421",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "usermail3@gamil.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "usermail3@gamil.com",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "60dfa62c4e3040e775588131e9973a7c8929019",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Kolkata",
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": "/files/Nancy.jpg",
+  "user_type": "System User",
+  "username": "nancy"
+ }
+]

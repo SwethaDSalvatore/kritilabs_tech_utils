@@ -1,0 +1,28 @@
+{
+ "cards": [
+  {
+   "card": "Total Present (This Month)"
+  },
+  {
+   "card": "Total Absent (This Month)"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Attendance Count",
+   "width": "Full"
+  }
+ ],
+ "creation": "2024-06-13 12:04:53.470449",
+ "dashboard_name": "kritilabs-HRM",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2024-06-13 12:11:23.051725",
+ "modified_by": "Administrator",
+ "module": "Kritilabs Tech Utils",
+ "name": "kritilabs-HRM",
+ "owner": "Administrator"
+}

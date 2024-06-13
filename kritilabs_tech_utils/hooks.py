@@ -8,6 +8,31 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+fixtures=[{
+    "doctype": "User"
+},
+{
+    "doctype": "Employee"
+},
+{
+    "doctype": "Attendance"
+},
+{
+    "doctype": "Holiday List"
+},
+{
+    "doctype": "Shift Type"
+},
+{
+    "doctype": "Workspace"
+},
+{
+    "doctype": "Client Script"
+},
+{
+    "doctype": "Dashboard"
+},
+]
 # include js, css files in header of desk.html
 # app_include_css = "/assets/kritilabs_tech_utils/css/kritilabs_tech_utils.css"
 # app_include_js = "/assets/kritilabs_tech_utils/js/kritilabs_tech_utils.js"
