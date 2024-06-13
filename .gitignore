@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+kritilabs_tech_utils/docs/current
+node_modules/
